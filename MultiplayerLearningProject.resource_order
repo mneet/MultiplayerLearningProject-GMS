@@ -22,6 +22,7 @@
     {"name":"obj_tiro","order":1,"path":"objects/obj_tiro/obj_tiro.yy",},
     {"name":"obj_bloco","order":2,"path":"objects/obj_bloco/obj_bloco.yy",},
     {"name":"spr_tiro","order":1,"path":"sprites/spr_tiro/spr_tiro.yy",},
+    {"name":"obj_multiplayer","order":5,"path":"objects/obj_multiplayer/obj_multiplayer.yy",},
     {"name":"obj_sensor","order":4,"path":"objects/obj_sensor/obj_sensor.yy",},
   ],
 }

@@ -42,6 +42,7 @@
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"obj_bloco","path":"objects/obj_bloco/obj_bloco.yy",},},
     {"id":{"name":"spr_tiro","path":"sprites/spr_tiro/spr_tiro.yy",},},
+    {"id":{"name":"obj_multiplayer","path":"objects/obj_multiplayer/obj_multiplayer.yy",},},
     {"id":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
